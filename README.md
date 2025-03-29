@@ -2,9 +2,13 @@
 
 PuffPics is a streamlined image hosting application that allows users to upload images and get shareable links. Built for simplicity and functionality, it demonstrates effective API integration and load-balanced deployment.
 
-![PuffPics Desktop Interface]((https://github.com/user-attachments/assets/f7834411-b9d1-4359-bedf-39ce52c43dc7])) ![PuffPics Desktop Interface]((https://github.com/user-attachments/assets/30af8613-434b-4e8b-b7b2-621add2a267a))
+## Application Screenshots
 
+### Desktop
+![PuffPics Desktop](images/desktop.png) 
 
+### Mobile
+![PuffPics Mobile](images/mobile.png) 
 
 ## Project Overview
 
